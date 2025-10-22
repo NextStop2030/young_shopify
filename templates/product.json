@@ -275,7 +275,7 @@
                   "settings": {
                     "text": "{{ closest.product.description }}",
                     "width": "100%",
-                    "max_width": "narrow",
+                    "max_width": "normal",
                     "alignment": "left",
                     "type_preset": "paragraph",
                     "font": "var(--font-primary--family)",
