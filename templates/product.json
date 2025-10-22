@@ -273,9 +273,9 @@
                   "type": "product-description",
                   "name": "Product description",
                   "settings": {
-                    "text": "<p>{{ closest.product.description }}</p>",
+                    "text": "{{ closest.product.description }}",
                     "width": "100%",
-                    "max_width": "normal",
+                    "max_width": "narrow",
                     "alignment": "left",
                     "type_preset": "paragraph",
                     "font": "var(--font-primary--family)",
