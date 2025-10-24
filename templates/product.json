@@ -8,7 +8,6 @@
  * ------------------------------------------------------------
  */
 {
-  //"layout": "theme.landing-page",
   "sections": {
     "main": {
       "type": "product-information",
@@ -22,7 +21,7 @@
             "image_gap": 29,
             "large_first_image": false,
             "icons_style": "chevron",
-            "slideshow_controls_style": "thumbnails",
+            "slideshow_controls_style": "counter",
             "slideshow_mobile_controls_style": "counter",
             "thumbnail_position": "bottom",
             "thumbnail_width": 72,
@@ -30,8 +29,8 @@
             "constrain_to_viewport": true,
             "media_fit": "cover",
             "media_radius": 0,
-            "extend_media": true,
-            "zoom": false,
+            "extend_media": false,
+            "zoom": true,
             "video_loop": true,
             "hide_variants": false,
             "padding-block-start": 0,
