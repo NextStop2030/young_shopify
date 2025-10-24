@@ -24,7 +24,7 @@
             "icons_style": "chevron",
             "slideshow_controls_style": "thumbnails",
             "slideshow_mobile_controls_style": "counter",
-            "thumbnail_position": "bottom",
+            "thumbnail_position": "right",
             "thumbnail_width": 72,
             "aspect_ratio": "1",
             "constrain_to_viewport": true,
@@ -557,10 +557,11 @@
           ]
         }
       },
+      "disabled": true,
       "name": "t:names.media_with_text",
       "settings": {
         "media_position": "right",
-        "media_width": "medium",
+        "media_width": "narrow",
         "media_height": "60svh",
         "section_width": "full-width",
         "extend_media": true,
