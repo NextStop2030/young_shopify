@@ -37,7 +37,7 @@
     "type_font_h6": "body",
     "type_size_h6": "12",
     "type_case_h6": "none",
-    "page_width": "narrow",
+    "page_width": "wide",
     "transition_to_main_product": false,
     "add_to_cart_animation": true,
     "card_hover_effect": "scale",
@@ -68,9 +68,10 @@
     "variant_swatch_width": 50,
     "variant_swatch_height": 20,
     "variant_swatch_radius": 0,
-    "variant_button_border_width": 1,
+    "variant_swatch_border_style": "none",
+    "variant_button_border_width": 0,
     "variant_button_radius": 0,
-    "variant_button_width": "equal-width-buttons",
+    "variant_button_width": "default-width-buttons",
     "content_for_index": [],
     "color_schemes": {
       "scheme-1": {
